@@ -148,7 +148,8 @@ h1 span {
 }
 
 #download {
-  margin: 0 auto;
+  margin-left: 5%;
+	margin-top: 10px;
 }
 
 #resumeBtn:hover {
